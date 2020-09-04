@@ -79,7 +79,7 @@
     "jest-cli": "^24.8.0",
     "lerna": "^3.20.2",
     "lint-staged": "^10.1.4",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.13.1",
     "postcss-cssnext": "^2.8.0",
     "postcss-loader": "^0.8.2",
     "postcss-mixins": "^5.0.0",
